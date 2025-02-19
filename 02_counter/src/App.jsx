@@ -10,7 +10,7 @@ function App() {
   // let counter = 5
   const removeValue = () => { 
     if (counter > 0) {
-      setCounter(counter - 1);
+      setCounter(counter - 1); 
       
       }
     
