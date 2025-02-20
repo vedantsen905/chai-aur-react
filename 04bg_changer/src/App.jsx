@@ -23,7 +23,9 @@ function App() {
           
           <button onClick={() => setColor('lavender')}
           className='outline-none px-4'
-          style={{backgroundColor: 'lavender'}}>lavender</button> 
+          style={{backgroundColor: 'lavender'}}>lavender</button>
+
+         
           
           <button onClick={() => setColor('yellow')}
           className='outline-none px-4'
